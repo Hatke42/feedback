@@ -1,0 +1,30 @@
+{
+  "feedbacks": [
+    {
+      "id": 1,
+      "rating": 8,
+      "text": "nayan made comment"
+    },
+    {
+      "id": 2,
+      "rating": 7,
+      "text": "dhaval made comment"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "jayesh made comment"
+    },
+    {
+      "text": "love you 5000",
+      "rating": 4,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "nayan"
+    }
+  ]
+}
